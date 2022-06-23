@@ -4,8 +4,7 @@ Este projeto foi construído para desenvolver um portfólio profissional, divulg
 
 ## 🚀 Acessando o site
 
-O site encontra-se hospedado no [Netlify](https://netlify.app/) e redirecionado para um domínio próprio, você pode acessar clicando abaixo:
-[br][leotinoco.dev](https://leotinoco.dev)
+- **Link para o site** - [leotinoco.dev](https://leotinoco.dev)
 
 ## 🛠️ Construído com
 
